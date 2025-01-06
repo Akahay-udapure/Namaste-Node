@@ -1,5 +1,5 @@
 const { MongoClient } = require('mongodb');
-const url = "mongodb+srv://akshayudapure:InoQ3DTwRhdKdZE0@namastenodejs.hqam4.mongodb.net/";
+const url = "";
 const client = new MongoClient(url);
 const dbName = 'HelloWorld';
 
